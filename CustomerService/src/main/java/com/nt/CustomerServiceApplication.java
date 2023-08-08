@@ -8,6 +8,17 @@ public class CustomerServiceApplication {
 
 	public static void main(String[] args) {
 		System.out.println("main applocation");
+		System.out.println("main applocation");
+
+		System.out.println("main applocation");
+
+		System.out.println("main applocation");
+		System.out.println("main applocation");
+		System.out.println("main applocation");
+		System.out.println("main applocation");
+		System.out.println("main applocation");
+		System.out.println("main applocation");
+		
 		SpringApplication.run(CustomerServiceApplication.class, args);
 	}
 
