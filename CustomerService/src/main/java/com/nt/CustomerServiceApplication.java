@@ -1,0 +1,14 @@
+package com.nt;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class CustomerServiceApplication {
+
+	public static void main(String[] args) {
+		System.out.println("main applocation");
+		SpringApplication.run(CustomerServiceApplication.class, args);
+	}
+
+}
